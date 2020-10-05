@@ -1,5 +1,6 @@
 public class Bubble_Sort{
 
+    // TIme Complexity  --- O(n^2) 
     static public void bubble_sort(int[]array){
 
         int n = array.length;  // length of the array 
