@@ -20,8 +20,7 @@ public class Bubble_Sort{
                     int temp = array[j];
                     array[j] = array[j+1];
                     array[j+1]= temp ;
-                    
-                    
+        
                 }
             }
         }
@@ -35,14 +34,5 @@ public class Bubble_Sort{
         for(int i = 0;i<array.length;i++){
             System.out.print(array[i]+" ");
         }
-
-
-
-
-
-
-
-
-
     }
 }
